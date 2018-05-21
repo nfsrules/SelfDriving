@@ -100,16 +100,13 @@ def build_model2(input_shape=(160,320,3), dropout=0.6):
     model.add(BatchNormalization())
     model.add(Activation('elu'))
 
-
     model.add(Conv2D(36, (5, 5), strides=(2, 2)))
     model.add(BatchNormalization())
     model.add(Activation('elu'))
 
-
     model.add(Conv2D(48, (5, 5), strides=(2, 2)))
     model.add(BatchNormalization())
     model.add(Activation('elu'))
-
    
     model.add(Conv2D(64, (3, 3)))
     model.add(BatchNormalization())
