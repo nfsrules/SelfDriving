@@ -101,7 +101,6 @@ def simulator(model,data_frame,imgs,f_init=230,f_end=300):
         total_frames.append(X)
         patch.remove()
         patch2.remove()
-
     plt.close()
 
     return total_frames
