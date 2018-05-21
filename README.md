@@ -11,7 +11,7 @@ The proposed architecture is a slightly modified version of the PilotNet publish
 
 1. <strong>Batch normalization after each convolutive layer.</strong>
 2. <strong>Activation function type 'elu'. For more information read this [article.](http://image-net.org/challenges/posters/JKU_EN_RGB_Schwarz_poster.pdf) </strong>
-3. <strong>Dropout before output layer.</strong>
+3. <strong>Dropout before the output layer.</strong>
 
 ![alt text](https://github.com/nfsrules/SelfDriving/blob/master/images/model_inet_2.png)
 
