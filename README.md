@@ -2,7 +2,7 @@
 Some work on comma.ai self driving cars dataset.
 
 
-<p align="center">![Alt Text](https://github.com/nfsrules/SelfDriving/blob/master/images/sample_output.gif)</p>
+<p align="center">![Alt Text](https://github.com/nfsrules/SelfDriving/blob/master/images/sample_output.gif) </p>
 
 
 
