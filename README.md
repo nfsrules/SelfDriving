@@ -16,7 +16,7 @@ The proposed architecture is a slightly modified version of the PilotNet publish
 ![alt text](https://github.com/nfsrules/SelfDriving/blob/master/images/model_inet_2.png)
 
 ## Visualization
-Some nice functions to annotate input images and render .AVI videos with the autopilot predictions are provided. This functions were used to generate the gif showed above.
+Some nice functions to annotate input images and render .AVI videos with the autopilot predictions are provided. These functions were used to generate the gif showed above.
 
 1. <strong>Annotate input images with vehicle's CAN readings.</strong>
 2. <strong>Generate video with the autopilot predictions and target angles.</strong>
